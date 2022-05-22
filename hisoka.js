@@ -3,7 +3,7 @@
    * Apikey? Register Di https://kanza-api.herokuapp.com
    * Full Api Sendiri
    * Upload Yt Izin Dulu Ke Wa Gw, Kaga Izin = Munafik 
-   * 90% No Enc
+   * 100% No Enc
 */
 
 
@@ -544,7 +544,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break    
             case 'sc': {
-                m.reply('Script : https://github.com/DikaArdnt/Hisoka-Morou\n\n Dont Forget Give Star\n\nDonate : 6285714627920 (Dana)\n\n Dont Forget Donate')
+                m.reply('Script : https://github.com/XFar08/danimd\n\n Dont Forget Give Star\n\nDonate : 6285714627920 (Dana)\n\n Dont Forget Donate')
             }
             break
             case 'chat': {
@@ -1144,27 +1144,27 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    displayText: 'S O U R C E C O D E',
+                                    url: 'https://github.com/XFar08/danimd'
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    displayText: 'A U T H O R C A L L',
+                                    phoneNumber: '+62 857-1462-7920'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
+                                    displayText: 'S T A T U S',
                                     id: 'ping'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Contact Owner',
+                                    displayText: 'A U T H O R',
                                     id: 'owner'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
+                                    displayText: 'S C R I P T',
                                     id: 'sc'
                                 }
                             }]
@@ -1183,27 +1183,27 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    displayText: 'S O U R C E C O D E',
+                                    url: 'https://github.com/XFar08/danimd'
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    displayText: 'A U T H O R C A L L',
+                                    phoneNumber: '+62 857-1462-7920'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
+                                    displayText: 'S T A T U S',
                                     id: 'ping'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Contact Owner',
+                                    displayText: 'A U T H O R',
                                     id: 'owner'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
+                                    displayText: 'S C R I P T',
                                     id: 'sc'
                                 }
                             }]
