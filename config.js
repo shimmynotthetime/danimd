@@ -5,7 +5,7 @@ const chalk = require('chalk')
 // Other
 global.owner = ['6285723219491','6285723219491','6285723219491']
 global.premium = ['6285723219491']
-global.packname = 'XCode'
+global.packname = 'DenzzSticker'
 global.author = 'DenzzJB'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
