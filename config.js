@@ -3,10 +3,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285714627920','6285714627920','6285714627920']
-global.premium = ['6285714627920']
+global.owner = ['6285723219491','6285723219491','6285723219491']
+global.premium = ['6285723219491']
 global.packname = 'XCode'
-global.author = 'WhatsApp Bot'
+global.author = 'DenzzJB'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
