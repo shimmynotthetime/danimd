@@ -24,11 +24,7 @@ const { Primbon } = require('scrape-primbon')
 const primbon = new Primbon()
 const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom, getGroupAdmins } = require('./lib/myfunc')
 const daniapi = "yourkey" 
-const pict = fs.readFileSync('./pict.jpg')
 
-    const ctlg = { "key": { "fromMe": false, "participant": "0@s.whatsapp.net", "remoteJid": "0@s.whatsapp.net"},"message": { "orderMessage": { "itemCount": 0, "surface": 'CATALOG' }}}
-
-    const reply = (jid = m.chat, text, quoted = ctlg) => client.sendMessage(jid, { text: text, contextInfo: { forwardingScore: 999, isForwarded: true,externalAdReply: {title: 'By VernonDev', previewType:"PHOTO", thumbnail:pict, sourceUrl: `https://pitodevid.github.io` }}}, { quoted })
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -448,6 +444,13 @@ Selama ${clockString(new Date - user.afkTime)}
             user.afkReason = ''
         }
 	    
+	 
+	    const pict = fs.readFileSync('./pict.jpg')
+
+    const ctlg = { "key": { "fromMe": false, "participant": "0@s.whatsapp.net", "remoteJid": "0@s.whatsapp.net"},"message": { "orderMessage": { "itemCount": 0, "surface": 'CATALOG' }}}
+
+    const reply = (jid = m.chat, text, quoted = ctlg) => client.sendMessage(jid, { text: text, contextInfo: { forwardingScore: 999, isForwarded: true,externalAdReply: {title: 'By VernonDev', previewType:"PHOTO", thumbnail:pict, sourceUrl: `https://pitodevid.github.io` }}}, { quoted })
+
         switch(command) {
 	    case 'afk': {
                 let user = global.db.data.users[m.sender]
