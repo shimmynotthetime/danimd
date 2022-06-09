@@ -2085,7 +2085,7 @@ let buttons = [
 {buttonId: `aesthetic`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/aesthetic?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/aesthetic?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2099,7 +2099,7 @@ let buttons = [
 {buttonId: `bonekachucky`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/bonekachucky?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/bonekachucky?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2113,7 +2113,7 @@ let buttons = [
 {buttonId: `wallpapercyberspace`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpapercyberspace?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpapercyberspace?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2127,7 +2127,7 @@ let buttons = [
 {buttonId: `wallpaperhacker`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperhacker?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperhacker?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2141,7 +2141,7 @@ let buttons = [
 {buttonId: `wallpapertechnology`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpapertechnology?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpapertechnology?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2155,7 +2155,7 @@ let buttons = [
 {buttonId: `wallpaperpubg`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperpubg?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperpubg?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2169,7 +2169,7 @@ let buttons = [
 {buttonId: `wallpaperprogramming`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperprogramming?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperprogramming?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2183,7 +2183,7 @@ let buttons = [
 {buttonId: `wallpaperislamic`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperislamic?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpaperislamic?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2197,7 +2197,7 @@ let buttons = [
 {buttonId: `wallpapermountain`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpapermountain?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/wallpapermountain?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2211,7 +2211,7 @@ let buttons = [
 {buttonId: `darkjoke`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/darkjoke?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/darkjoke?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2225,7 +2225,7 @@ let buttons = [
 {buttonId: `darkmeme`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/darkmeme?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/darkmeme?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2239,7 +2239,7 @@ let buttons = [
 {buttonId: `meme`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/meme?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/meme?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2253,7 +2253,7 @@ let buttons = [
 {buttonId: `memesuki`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/memesuki?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/memesuki?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2267,7 +2267,7 @@ let buttons = [
 {buttonId: `kucing`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/kucing?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/kucing?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2281,7 +2281,7 @@ let buttons = [
 {buttonId: `doraemon`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/doraemon?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/doraemon?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2295,7 +2295,7 @@ let buttons = [
 {buttonId: `pentol`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/pentol?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/pentol?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2309,7 +2309,7 @@ let buttons = [
 {buttonId: `motor`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/motor?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/motor?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2323,7 +2323,7 @@ let buttons = [
 {buttonId: `mobil`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/mobil?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/mobil?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2337,7 +2337,7 @@ let buttons = [
 {buttonId: `kpop`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/kpop?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/kpop?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2351,7 +2351,7 @@ let buttons = [
 {buttonId: `satanic`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/satanic?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/satanic?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2365,7 +2365,7 @@ let buttons = [
 {buttonId: `renungan`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/renungan?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/renungan?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2379,7 +2379,7 @@ let buttons = [
 {buttonId: `pokemon`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/pokemon?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/pokemon?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2393,7 +2393,7 @@ let buttons = [
 {buttonId: `quotesimage`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/quotesimage?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/quotesimage?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2407,7 +2407,7 @@ let buttons = [
 {buttonId: `quotesyt`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/quotesyt?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/quotesyt?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2421,7 +2421,7 @@ let buttons = [
 {buttonId: `tatasurya`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/tatasurya?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/tatasurya?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2435,7 +2435,7 @@ let buttons = [
 {buttonId: `ceweindonesia`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/ceweindonesia?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/ceweindonesia?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2449,7 +2449,7 @@ let buttons = [
 {buttonId: `cewechina`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewechina?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewechina?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2463,7 +2463,7 @@ let buttons = [
 {buttonId: `cewejapan`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewejapan?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewejapan?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2477,7 +2477,7 @@ let buttons = [
 {buttonId: `cewekorea`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewekorea?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewekorea?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2491,7 +2491,7 @@ let buttons = [
 {buttonId: `cewethailand`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewethailand?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewethailand?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2505,7 +2505,7 @@ let buttons = [
 {buttonId: `cewevietnam`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewevietnam?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cewevietnam?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2519,7 +2519,7 @@ let buttons = [
 {buttonId: `ryujin`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/ryujin?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/ryujin?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2533,7 +2533,7 @@ let buttons = [
 {buttonId: `jiso`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/jiso?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/jiso?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2547,7 +2547,7 @@ let buttons = [
 {buttonId: `jeni`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/jeni?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/jeni?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2561,7 +2561,7 @@ let buttons = [
 {buttonId: `cogan`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cogan?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cogan?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2575,7 +2575,7 @@ let buttons = [
 {buttonId: `cecan`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cecan?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/cecan?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2589,7 +2589,7 @@ let buttons = [
 {buttonId: `justina`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/justina?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/justina?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2603,7 +2603,7 @@ let buttons = [
 {buttonId: `kayes`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/kayes?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/kayes?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2617,7 +2617,7 @@ let buttons = [
 {buttonId: `notnot`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/notnot?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/notnot?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2631,7 +2631,7 @@ let buttons = [
 {buttonId: `rose`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/rose?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/rose?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2645,7 +2645,7 @@ let buttons = [
 {buttonId: `joker`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/joker?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/joker?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2659,7 +2659,7 @@ let buttons = [
 {buttonId: `harley`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/harley?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/randomimage/harley?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2673,7 +2673,7 @@ let buttons = [
 {buttonId: `asupan`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2687,7 +2687,7 @@ let buttons = [
 {buttonId: `asupanukhty`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan/ukhty?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan/ukhty?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2701,7 +2701,7 @@ let buttons = [
 {buttonId: `asupanrikagusriani`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan/rikagusriani?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan/rikagusriani?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2715,7 +2715,7 @@ let buttons = [
 {buttonId: `asupannotnot`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan/notnot?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan/notnot?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2729,7 +2729,7 @@ let buttons = [
 {buttonId: `asupanloli`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan/loli?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan/loli?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2743,7 +2743,7 @@ let buttons = [
 {buttonId: `asupankayes`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan/kayes?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan/kayes?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2757,7 +2757,7 @@ let buttons = [
 {buttonId: `asupanhijaber`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-image: { url: 'https://kanza-api.herokuapp.com/api/asupan/hijaber?apikey=${daniapi}' },
+image: { url: 'https://kanza-api.herokuapp.com/api/asupan/hijaber?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2771,7 +2771,7 @@ let buttons = [
 {buttonId: `asupanbocil`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan/bocil?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan/bocil?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2785,7 +2785,7 @@ let buttons = [
 {buttonId: `asupangeayubi`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
-video: { url: 'https://kanza-api.herokuapp.com/api/asupan/geayubi?apikey=${daniapi}' },
+video: { url: 'https://kanza-api.herokuapp.com/api/asupan/geayubi?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
 caption: ` Random ${command}`,
 footer: hisoka.user.name,
 buttons: buttons,
@@ -2797,19 +2797,19 @@ break
 case 'carbon': {
 if (!text) throw `Example : ${prefix + command} Dani Dev`
 m.reply(mess.wait)
-hisoka.sendMessage(m.chat, { image: { url: `https://kanza-api.herokuapp.com/api/creator/carbon?text=${text}&apikey=${daniapi}` }, caption: `Selesai ☑️` }, { quoted: m})
+hisoka.sendMessage(m.chat, { image: { url: `https://kanza-api.herokuapp.com/api/creator/carbon?text=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7` }, caption: `Selesai ☑️` }, { quoted: m})
 }
 break
 case 'nuliskiri': {
 if (!text) throw `Example : ${prefix + command} Dani Dev`
 m.reply(mess.wait)
-hisoka.sendMessage(m.chat, { image: { url: `https://kanza-api.herokuapp.com/api/creator/nuliskiri?text=${text}&apikey=${daniapi}` }, caption: `Selesai ☑️` }, { quoted: m})
+hisoka.sendMessage(m.chat, { image: { url: `https://kanza-api.herokuapp.com/api/creator/nuliskiri?text=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7` }, caption: `Selesai ☑️` }, { quoted: m})
 }
 break
 case 'nuliskanan': {
 if (!text) throw `Example : ${prefix + command} Dani Dev`
 m.reply(mess.wait)
-hisoka.sendMessage(m.chat, { image: { url: `https://kanza-api.herokuapp.com/api/creator/nuliskanan?text=${text}&apikey=${daniapi}` }, caption: `Selesai ☑️` }, { quoted: m})
+hisoka.sendMessage(m.chat, { image: { url: `https://kanza-api.herokuapp.com/api/creator/nuliskanan?text=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7` }, caption: `Selesai ☑️` }, { quoted: m})
 }
 break
 case 'foliokiri': {
