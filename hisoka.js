@@ -3158,7 +3158,7 @@ break
 	        case 'tiktok': case 'tiktoknowm': {
                 if (!text) throw 'Masukkan Query Link!'
                 m.reply(mess.wait)
-                let anu = await fetchJson(`https://kanza-api.herokuapp.com/api/download/tiktokmate?url=${text}&apikey=${daniapi}`)
+                let anu = await fetchJson(`https://kanza-api.herokuapp.com/api/download/tiktokmate?url=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`)
                 let buttons = [                   
                     {buttonId: `tiktokmp3 ${text}`, buttonText: {displayText: 'A U D I O'}, type: 1}
                 ]
@@ -3175,13 +3175,13 @@ break
             case 'tiktokmp3': case 'tiktokaudio': {
                 if (!text) throw 'Masukkan Query Link!'
                 m.reply(mess.wait)
-                hisoka.sendMessage(m.chat, { audio: { url: `https://kanza-api.herokuapp.com/api/download/tiktokaudio?url=${text}&apikey=${daniapi}` }, mimetype: 'audio/mpeg'}, { quoted: m })
+                hisoka.sendMessage(m.chat, { audio: { url: `https://kanza-api.herokuapp.com/api/download/tiktokaudio?url=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7` }, mimetype: 'audio/mpeg'}, { quoted: m })
             }
             break
 	        case 'instagram': case 'ig': case 'igdl': {
                 if (!text) throw 'No Query Url!'
                 m.reply(mess.wait)
-                let anu = await fetchJson(`https://kanza-api.herokuapp.com/api/download/igdl?url=${text}&apikey=${daniapi}`)                
+                let anu = await fetchJson(`https://kanza-api.herokuapp.com/api/download/igdl?url=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`)                
                 hisoka.sendMessage(m.chat, { video: { url: anu.result.link }}, { quoted: m })
             }
             break            
