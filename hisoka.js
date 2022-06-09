@@ -2794,7 +2794,7 @@ hisoka.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 break
 case 'asupanchargenshin': {
-let buttons = {
+let buttons = [
 {buttonId: `asupanchargenshin`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
 ]
 let buttonMessage = {
