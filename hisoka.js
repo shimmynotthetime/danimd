@@ -1192,12 +1192,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'S O U R C E C O D E',
-                                    url: 'https://github.com/XFar08/danimd'
+                                    url: 'https://pitodevid.github.io/'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'A U T H O R C A L L',
-                                    phoneNumber: '+62 857-1462-7920'
+                                    phoneNumber: '+62 896-9380-2507'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1313,7 +1313,7 @@ break
 	    break
 	       case 'attp': case 'ttp': {
            if (!text) throw `Example : ${prefix + command} text`
-           await hisoka.sendMedia(m.chat, `https://kanza-api.herokuapp.com/api/creator/attp?text=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`, 'hisoka', 'morou', m, {asSticker: true})
+           await hisoka.sendMedia(m.chat, `https://kanza-api.herokuapp.com/api/maker/attp?text=DaniGanteng&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`, 'hisoka', 'morou', m, {asSticker: true})
 
          }
          break
