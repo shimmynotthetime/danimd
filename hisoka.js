@@ -1313,7 +1313,7 @@ break
 	    break
 	       case 'attp': case 'ttp': {
            if (!text) throw `Example : ${prefix + command} text`
-           await hisoka.sendMedia(m.chat, `https://kanza-api.herokuapp.com/api/maker/attp?text=DaniGanteng&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`, 'hisoka', 'morou', m, {asSticker: true})
+           await hisoka.sendMedia(m.chat, `https://kanza-api.herokuapp.com/api/maker/attp?text=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`, 'hisoka', 'morou', m, {asSticker: true})
 
          }
          break
@@ -2793,6 +2793,20 @@ headerType: 4
 hisoka.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 break
+case 'asupanchargenshin': {
+let buttons = {
+{buttonId: `asupanchargenshin`, buttonText: {displayText: '➡️ NEXT'}, type: 1}
+]
+let buttonMessage = {
+video: { url: 'https://kanza-api.herokuapp.com/api/other/genshin?apikey=b3EnRvrOPCwPLQN5TvHJCGOl7' },
+caption: ` Random ${command}`,
+footer:hisoka.user.name,
+buttons: buttons,
+headerType: 4
+}
+hisoka.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
 case 'carbon': {
 if (!text) throw `Example : ${prefix + command} Dani Dev`
 m.reply(mess.wait)
@@ -3212,7 +3226,7 @@ break
             case 'twittermp3': case 'twitteraudio': {
                 if (!text) throw 'Masukkan Query Link!'
                 m.reply(mess.wait)
-                let anu = await fetchJson(`https://kanza-api.herokuapp.com/api/download/twitter2?url=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`)
+                let anu = await fetchJson(`zhttps://kanza-api.herokuapp.com/api/download/twitter2?url=${text}&apikey=b3EnRvrOPCwPLQN5TvHJCGOl7`)
                 let buttons = [
                     {buttonId: `twitter ${text}`, buttonText: {displayText: 'V I D E O'}, type: 1}
                 ]
@@ -3901,7 +3915,6 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ⭔ ${prefix}getvideo [query]
 ⭔ ${prefix}umma [url]
 ⭔ ${prefix}soundcloud [url]
-⭔ ${prefix}spotifydl [url]
 ⭔ ${prefix}xnxxdl [url]
 ⭔ ${prefix}cocofundl [url]
 ⭔ ${prefix}ytshort [url]
@@ -4038,6 +4051,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ⭔ ${prefix}asupankayes
 ⭔ ${prefix}asupanhijaber
 ⭔ ${prefix}asupangeayubi
+⭔ ${prefix}asupanchargenshin
 ⭔ ${prefix}asupanbocil
 ⭔ ${prefix}asupanukhty
 ⭔ ${prefix}asupanrikagusriani
