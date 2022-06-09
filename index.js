@@ -14,6 +14,11 @@ const axios = require('axios')
 const PhoneNumber = require('awesome-phonenumber')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/myfunc')
+const pict = fs.readFileSync('./pict.jpg')
+
+    const ctlg = { "key": { "fromMe": false, "participant": "0@s.whatsapp.net", "remoteJid": "0@s.whatsapp.net"},"message": { "orderMessage": { "itemCount": 0, "surface": 'CATALOG' }}}
+
+    const reply = (jid = m.chat, text, quoted = ctlg) => client.sendMessage(jid, { text: text, contextInfo: { forwardingScore: 999, isForwarded: true,externalAdReply: {title: 'By PitoDev ArmStrong', previewType:"PHOTO", thumbnail:pict, sourceUrl: `https://pitodevid.github.io` }}}, { quoted })
 
 var low
 try {
