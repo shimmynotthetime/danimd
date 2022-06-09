@@ -3881,9 +3881,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'list': case 'menu': case 'help': case '?': {
                 anu = ` *DOWNLOAD MENU*
 
-⭔ ${prefix}tiktok [url]
-⭔ ${prefix}tiktokmp3 [url]
-⭔ ${prefix}instagram [url]
+⭔ ${prefix}tiktok [url] tidak berfungsi
+⭔ ${prefix}tiktokmp3 [url] tidak berfungsi
+⭔ ${prefix}instagram [url] tidak berfungsi
 ⭔ ${prefix}twitter [url]
 ⭔ ${prefix}twittermp3 [url]
 ⭔ ${prefix}facebook [url]
